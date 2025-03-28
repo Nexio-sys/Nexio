@@ -2,7 +2,7 @@
 
 ## Overview
 
-NEXIO is a powerful Python-based platform that combines AI technology with blockchain to create, manage, and mint unique NFT collections. The platform leverages Stable Diffusion for AI art generation and integrates with Ethereum blockchain for NFT minting.
+NEXIO is a powerful Python-based platform that combines AI technology with blockchain to create, manage, and mint unique NFT collections. The platform leverages Stable Diffusion for AI art generation and integrates with solana blockchain for NFT minting.
 
 ## Features
 
@@ -172,7 +172,7 @@ We welcome contributions! Please follow these steps:
 
 ## Contact
 
- [Twitter](https://x.com/Ai_nexio)
+[Twitter](https://x.com/nexionft)
 
 ## Acknowledgments
 
