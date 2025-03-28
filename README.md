@@ -172,7 +172,7 @@ We welcome contributions! Please follow these steps:
 
 ## Contact
 
-[Twitter](https://x.com/nexionft)
+[Twitter](https://x.com/Nft_Nexio)
 
 ## Acknowledgments
 
